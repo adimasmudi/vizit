@@ -1,0 +1,7 @@
+pembuatan google maps API:
+
+- masuk ke gcloud console
+- cari google maps javascript
+- enable
+- pilih Google maps api javascript
+- credentials dan add credentials
